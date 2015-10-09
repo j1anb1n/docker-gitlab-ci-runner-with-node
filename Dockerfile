@@ -1,4 +1,4 @@
-FROM  sameersbn/gitlab-ci-runner:5.0.0-2
+FROM  sameersbn/gitlab-ci-runner:5.2.1
 MAINTAINER chan.jianbin@gmail.com
 
 RUN apt-get update
